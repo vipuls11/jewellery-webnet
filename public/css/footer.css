@@ -1,0 +1,39 @@
+ .footer_mein{
+    border-top: 8px solid rgb(0, 255, 247);
+    padding-top: 34px;
+ }
+
+
+.Client_ul {
+    list-style: none;
+    list-style-position: outside;
+    padding-top: 14px;
+    text-decoration: none;
+    text-align: left;
+    line-height: 2;
+    float: left;
+    padding-inline-start: 0px;
+}
+
+.footer_par{
+    padding-top: 14px;  
+}
+
+.Email_address{
+    margin-top: 40px;
+}
+
+.Sign_up{
+    padding: 5px 40px;
+    margin: 14px 0px;
+    font-weight: 500;
+}
+
+.end_footer{
+    font-size: 24px;
+    font-weight: 600;
+    padding: 4px 0px;
+    border: 2px solid rgb(0, 255, 247);
+    border-left: 0px;
+    border-right: 0px;
+}

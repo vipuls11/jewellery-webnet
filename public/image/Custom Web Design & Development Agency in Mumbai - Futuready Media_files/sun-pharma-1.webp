@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="">
+	<meta name="author" content="">
+        <meta name="google-site-verification" content="p8jPoOC41PrecYMhdjNEilhEakCeRwfhKhJMJxk0-NA" />
+	<link rel="shortuct icon" href="https://www.futureadymedia.com/assets/images/favicon.png">
+	<title>Page not found</title>
+	<!--<link href="https://www.futureadymedia.com/assets/css/bootstrap.min.css" rel="stylesheet">-->
+	<!--<link href="https://www.futureadymedia.com/assets/css/font-awesome.min.css" rel="stylesheet">-->
+	<link href="https://www.futureadymedia.com/assets/css/style.css" rel="stylesheet">
+	<!--<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">-->
+	<link rel="stylesheet" href="themes/base/production/css/main.vFnPnd6wiYKPGYYeXaoDyg.css">
+	<style>
+	body {
+        font-family: canada-type-gibson, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+	.logo_404 img{margin-left:auto;margin-right:auto;display:block;padding:34px 0 30px 0}.title_404>div{line-height:140px;padding-bottom:30px;font-size:140px;text-align:center;color:#a0acba}.title_404{text-align:center;font-size:50px;padding-bottom:20px}.content_404{color:#a0acba;font-size:18px;font-weight:300;line-height:30px;text-align:center;padding-bottom:35px}
+	.btn_center{text-align:center}.btn_size{padding:14px 35px 15px 35px;color:#fff;background-color:#e56e6e}.btn_size span{text-transform:uppercase;text-decoration:none}.btn_size:hover{text-transform:uppercase;text-decoration:none;background-color:orange;color:#fff}.social_wrapper{bottom:50px;width:100%;height:auto;top:auto}.social_inner{position:relative;left:auto;top:auto;bottom:auto;right:auto;transform:none;text-align:center}.social_inner ul{transform:none;padding:0;margin-top:30px;pointer-events:auto;white-space:nowrap}.social_inner ul li{display:inline-block;font-size:14px;line-height:16px;margin:20px 15px 0 15px}.social_inner ul li a{text-decoration:none}.social_inner ul li a:hover{list-style:none;text-decoration:none;display:inline-block;font-size:14px}
+	</style>
+</head>
+<body>
+
+<section id="404-container">
+	<div class="container">
+		<div class="logo_404">
+			<a href="https://www.futureadymedia.com/">
+          		<img src="https://www.futureadymedia.com/assets/images/FM-logo-black.png" alt="logo">
+        	</a>
+    	</div>
+		<div class="title_404">
+			<div>404</div>
+			Oops! Page not found!
+		</div>
+		<div class="content_404">
+			Either Something Get Wrong or the Page Doesn't Exist Anymore.
+		</div>
+		<div class="module_button btn_center">
+			<a class="btn_size" href="https://www.futureadymedia.com/"><span>take me home</span></a>
+        </div>
+        <div class="social_wrapper">
+	    	<div class="social_inner">
+	            <ul class="social">
+	            	<li><a class="twitter" target="_blank" href="https://twitter.com/FutureadyMedia" title="Twitter"> 
+	            	Twitter</a></li>
+	            	<li><a class="facebook" target="_blank" href="https://www.facebook.com/futureadymedia/" title="Facebook"> Facebook</a></li>
+	            	<li><a class="instagram" target="_blank" href="https://www.instagram.com/futureadymedia/" title="Instagram"> Instagram</a></li>
+	            	<li><a class="youtube" target="_blank" href="https://www.youtube.com/channel/UCTfxtQyIJyvlpwKrvLsRj7w" title="Youtube"> Youtube</a></li>
+	            </ul>
+	        </div>
+	    </div>
+    </div>
+</section>
+
+
+<!-- Bootstrap core JavaScript
+ ================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<!--<script src="https://www.futureadymedia.com/assets/js/jquery.min.js"></script>-->
+<!--<script src="https://www.futureadymedia.com/assets/js/bootstrap.min.js"></script>-->
+
+
+</body>
+</html>

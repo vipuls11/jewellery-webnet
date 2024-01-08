@@ -1,0 +1,39 @@
+.filter {
+    gap: 20px;
+  }
+
+  .card{
+    position: relative;
+  }
+
+  .card_collection{
+    position:absolute;
+    padding: 5px 15px;
+    left:15px;
+    top:10px;
+    background-color: black;
+    color:white;
+    border-radius: 5px;
+  }
+
+  .card_next_prev{
+    position: absolute;
+      top: 35%;  
+      width:100%; 
+      display: inline-flex;
+      justify-content: space-between;  
+  }
+
+  #next{
+    text-align: left;
+    padding: 8px 14px;
+    font-size: 24px;
+    font-weight: 700;
+  }
+
+  #prev{
+   text-align: right;
+   padding: 8px 14px;
+   font-size: 24px;
+    font-weight: 700;
+  }
